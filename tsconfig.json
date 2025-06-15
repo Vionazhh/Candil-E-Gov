@@ -1,0 +1,29 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "jsx": "react-native",
+    "lib": ["dom", "esnext"],
+    "module": "Node16",
+    "moduleResolution": "Node16",
+    "noEmit": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "allowJs": true,
+    "forceConsistentCasingInFileNames": true,
+    "paths": {
+      "@/*": ["./*"],
+      "@firebase/auth": ["./node_modules/@firebase/auth/dist/index.rn.d.ts"]
+    }
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    ".expo/types/**/*.ts",
+    "expo-env.d.ts",
+    "app/books/read.tsx.bak"
+  ],
+  "exclude": ["node_modules"]
+}

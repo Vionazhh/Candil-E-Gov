@@ -1,0 +1,204 @@
+{
+    "books": [
+        {
+            "title": "Seven indicate free state.",
+            "authorId": "shannon reeves",
+            "categoryId": "cat-5",
+            "publisherId": "ortiz_and_sons",
+            "description": "Base him eight by shake. Politics prove until a despite cover like seem. Able rest indeed blue save.",
+            "isbn": "978-1-953587-07-7",
+            "language": "English",
+            "pageCount": 296,
+            "pdfUrl": "https://placehold.co/600x800?text=PDF+1",
+            "audioUrl": "https://example.com/audio/book-1.mp3",
+            "coverImage": "https://placehold.co/200x300?text=Book+1",
+            "publishYear": 1991,
+            "stock": 62,
+            "availibility": "available",
+            "createdAt": {
+                "seconds": 1749699824,
+                "nanoseconds": 0
+            }
+        },
+        {
+            "title": "Hold page apply real.",
+            "authorId": "michael rosario",
+            "categoryId": "cat-10",
+            "publisherId": "sanchez_inc",
+            "description": "Husband enough investment often in area. Morning high decide if rock she fund. Just federal game participant start commercial ok. Be scene million ready.",
+            "isbn": "978-1-80272-816-3",
+            "language": "English",
+            "pageCount": 254,
+            "pdfUrl": "https://placehold.co/600x800?text=PDF+2",
+            "audioUrl": "https://example.com/audio/book-2.mp3",
+            "coverImage": "https://placehold.co/200x300?text=Book+2",
+            "publishYear": 1995,
+            "stock": 85,
+            "availibility": "unavailable",
+            "createdAt": {
+                "seconds": 1749699824,
+                "nanoseconds": 0
+            }
+        },
+        {
+            "title": "Cut sometimes.",
+            "authorId": "charles brown",
+            "categoryId": "cat-9",
+            "publisherId": "davis_inc",
+            "description": "Push staff according senior care arrive agency. Even different production who along.",
+            "isbn": "978-1-08-939380-1",
+            "language": "English",
+            "pageCount": 158,
+            "pdfUrl": "https://placehold.co/600x800?text=PDF+3",
+            "audioUrl": "https://example.com/audio/book-3.mp3",
+            "coverImage": "https://placehold.co/200x300?text=Book+3",
+            "publishYear": 1992,
+            "stock": 13,
+            "availibility": "unavailable",
+            "createdAt": {
+                "seconds": 1749699824,
+                "nanoseconds": 0
+            }
+        },
+        {
+            "title": "Wish face actually tell wrong.",
+            "authorId": "daniel king",
+            "categoryId": "cat-3",
+            "publisherId": "sanchez_inc",
+            "description": "Operation success believe clearly may personal. Too box build would through both near.\nStatement information not fight actually personal wear.",
+            "isbn": "978-1-212-13771-5",
+            "language": "English",
+            "pageCount": 250,
+            "pdfUrl": "https://placehold.co/600x800?text=PDF+4",
+            "audioUrl": "https://example.com/audio/book-4.mp3",
+            "coverImage": "https://placehold.co/200x300?text=Book+4",
+            "publishYear": 2020,
+            "stock": 7,
+            "availibility": "unavailable",
+            "createdAt": {
+                "seconds": 1749699824,
+                "nanoseconds": 0
+            }
+        },
+        {
+            "title": "Himself let.",
+            "authorId": "angela chavez",
+            "categoryId": "cat-3",
+            "publisherId": "sanchez_inc",
+            "description": "Already investment time small happy against smile. Plan rate prove marriage movie main.\nBoy hair town require quality arm must. Reality fund father two final. Key event quality.",
+            "isbn": "978-1-5281-1207-9",
+            "language": "English",
+            "pageCount": 445,
+            "pdfUrl": "https://placehold.co/600x800?text=PDF+5",
+            "audioUrl": "https://example.com/audio/book-5.mp3",
+            "coverImage": "https://placehold.co/200x300?text=Book+5",
+            "publishYear": 1994,
+            "stock": 92,
+            "availibility": "available",
+            "createdAt": {
+                "seconds": 1749699824,
+                "nanoseconds": 0
+            }
+        },
+        {
+            "title": "Stage board list put.",
+            "authorId": "jillian johnson",
+            "categoryId": "cat-7",
+            "publisherId": "ortiz_and_sons",
+            "description": "Beyond civil organization bring learn. Weight mouth control party.\nTest medical win since strong. Manage personal evening team.",
+            "isbn": "978-0-8050-2408-1",
+            "language": "English",
+            "pageCount": 195,
+            "pdfUrl": "https://placehold.co/600x800?text=PDF+6",
+            "audioUrl": "https://example.com/audio/book-6.mp3",
+            "coverImage": "https://placehold.co/200x300?text=Book+6",
+            "publishYear": 2021,
+            "stock": 69,
+            "availibility": "available",
+            "createdAt": {
+                "seconds": 1749699824,
+                "nanoseconds": 0
+            }
+        },
+        {
+            "title": "Trial loss how.",
+            "authorId": "jillian johnson",
+            "categoryId": "cat-4",
+            "publisherId": "ortiz_and_sons",
+            "description": "Woman officer claim. Single leave born. Resource fine woman space figure.\nEstablish tough center. Question station throughout share sense.",
+            "isbn": "978-1-291-11560-4",
+            "language": "English",
+            "pageCount": 193,
+            "pdfUrl": "https://placehold.co/600x800?text=PDF+7",
+            "audioUrl": "https://example.com/audio/book-7.mp3",
+            "coverImage": "https://placehold.co/200x300?text=Book+7",
+            "publishYear": 2015,
+            "stock": 94,
+            "availibility": "unavailable",
+            "createdAt": {
+                "seconds": 1749699824,
+                "nanoseconds": 0
+            }
+        },
+        {
+            "title": "Policy yet actually ask.",
+            "authorId": "angela chavez",
+            "categoryId": "cat-1",
+            "publisherId": "parks,_taylor_and_robertson",
+            "description": "Home piece blood. Catch think beautiful likely arm light kid.\nFoot his weight else.\nOwner policy seven stuff read detail surface. Join life return police system.",
+            "isbn": "978-1-83241-450-0",
+            "language": "English",
+            "pageCount": 444,
+            "pdfUrl": "https://placehold.co/600x800?text=PDF+8",
+            "audioUrl": "https://example.com/audio/book-8.mp3",
+            "coverImage": "https://placehold.co/200x300?text=Book+8",
+            "publishYear": 2001,
+            "stock": 25,
+            "availibility": "unavailable",
+            "createdAt": {
+                "seconds": 1749699824,
+                "nanoseconds": 0
+            }
+        },
+        {
+            "title": "Decision bill yet reflect.",
+            "authorId": "charles brown",
+            "categoryId": "cat-3",
+            "publisherId": "thompson_llc",
+            "description": "Star stuff each continue owner close.\nAlready blood ok. Officer piece language several position wrong number education.",
+            "isbn": "978-0-17-176721-6",
+            "language": "English",
+            "pageCount": 340,
+            "pdfUrl": "https://placehold.co/600x800?text=PDF+9",
+            "audioUrl": "https://example.com/audio/book-9.mp3",
+            "coverImage": "https://placehold.co/200x300?text=Book+9",
+            "publishYear": 1996,
+            "stock": 84,
+            "availibility": "unavailable",
+            "createdAt": {
+                "seconds": 1749699824,
+                "nanoseconds": 0
+            }
+        },
+        {
+            "title": "Prevent sea effort.",
+            "authorId": "shannon reeves",
+            "categoryId": "cat-2",
+            "publisherId": "alvarez_ltd",
+            "description": "Cause never office. Pm alone teach reveal majority wish often. Stuff audience admit here.\nActivity hour fight bring. Analysis head campaign life. Republican already series miss knowledge right.",
+            "isbn": "978-0-02-486174-0",
+            "language": "English",
+            "pageCount": 218,
+            "pdfUrl": "https://placehold.co/600x800?text=PDF+10",
+            "audioUrl": "https://example.com/audio/book-10.mp3",
+            "coverImage": "https://placehold.co/200x300?text=Book+10",
+            "publishYear": 1997,
+            "stock": 47,
+            "availibility": "available",
+            "createdAt": {
+                "seconds": 1749699824,
+                "nanoseconds": 0
+            }
+        }
+    ]
+}

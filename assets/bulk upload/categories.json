@@ -1,0 +1,64 @@
+{
+    "categories": [
+        {
+            "id": "cat-1",
+            "name": "Answer",
+            "icon": "book",
+            "featured": true
+        },
+        {
+            "id": "cat-2",
+            "name": "Note",
+            "icon": "book",
+            "featured": false
+        },
+        {
+            "id": "cat-3",
+            "name": "Any",
+            "icon": "book",
+            "featured": true
+        },
+        {
+            "id": "cat-4",
+            "name": "Each",
+            "icon": "book",
+            "featured": false
+        },
+        {
+            "id": "cat-5",
+            "name": "City",
+            "icon": "book",
+            "featured": true
+        },
+        {
+            "id": "cat-6",
+            "name": "Describe",
+            "icon": "book",
+            "featured": false
+        },
+        {
+            "id": "cat-7",
+            "name": "Night",
+            "icon": "book",
+            "featured": true
+        },
+        {
+            "id": "cat-8",
+            "name": "Woman",
+            "icon": "book",
+            "featured": false
+        },
+        {
+            "id": "cat-9",
+            "name": "Many",
+            "icon": "book",
+            "featured": true
+        },
+        {
+            "id": "cat-10",
+            "name": "Candidate",
+            "icon": "book",
+            "featured": false
+        }
+    ]
+}

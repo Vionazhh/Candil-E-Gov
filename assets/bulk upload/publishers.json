@@ -1,0 +1,134 @@
+{
+    "publishers": [
+        {
+            "name": "Hamilton, Garrett and Le",
+            "description": "Name trade democratic pick.",
+            "email": "fmercado@robinson.net",
+            "location": "South Danny",
+            "logoUrl": "https://placehold.co/100x100?text=Publisher+1",
+            "phone": "911.502.6407x5402",
+            "website": "http://www.baker.com/",
+            "createdAt": {
+                "seconds": 1749699824,
+                "nanoseconds": 0
+            }
+        },
+        {
+            "name": "King-Williams",
+            "description": "Discuss dog step particularly. Cup local whole even. Food care hard evening lose.",
+            "email": "peterking@case.org",
+            "location": "Isabellatown",
+            "logoUrl": "https://placehold.co/100x100?text=Publisher+2",
+            "phone": "+1-852-532-1904x5733",
+            "website": "http://www.rich.info/",
+            "createdAt": {
+                "seconds": 1749699824,
+                "nanoseconds": 0
+            }
+        },
+        {
+            "name": "Sanchez Inc",
+            "description": "Staff five discover who drug. Brother although fall.",
+            "email": "kaylee38@smith-stone.com",
+            "location": "East Annette",
+            "logoUrl": "https://placehold.co/100x100?text=Publisher+3",
+            "phone": "8362036992",
+            "website": "http://wilson-riley.info/",
+            "createdAt": {
+                "seconds": 1749699824,
+                "nanoseconds": 0
+            }
+        },
+        {
+            "name": "Ryan PLC",
+            "description": "Soon space wife. Follow eye itself may understand. Baby more field commercial mention campaign eye.",
+            "email": "bellemily@reeves.org",
+            "location": "Lauraton",
+            "logoUrl": "https://placehold.co/100x100?text=Publisher+4",
+            "phone": "(517)484-6741x9915",
+            "website": "https://deleon.com/",
+            "createdAt": {
+                "seconds": 1749699824,
+                "nanoseconds": 0
+            }
+        },
+        {
+            "name": "Parks, Taylor and Robertson",
+            "description": "Age gun choose much environment country sign. Describe price this quite.",
+            "email": "kevindavis@george-davenport.info",
+            "location": "Rebeccaberg",
+            "logoUrl": "https://placehold.co/100x100?text=Publisher+5",
+            "phone": "274.144.7872x688",
+            "website": "https://russell.biz/",
+            "createdAt": {
+                "seconds": 1749699824,
+                "nanoseconds": 0
+            }
+        },
+        {
+            "name": "Thompson LLC",
+            "description": "Sound special painting well. Ten water property whether whatever.",
+            "email": "olyons@walker-jones.com",
+            "location": "Herreraview",
+            "logoUrl": "https://placehold.co/100x100?text=Publisher+6",
+            "phone": "001-923-894-4865x038",
+            "website": "https://www.brown-blanchard.com/",
+            "createdAt": {
+                "seconds": 1749699824,
+                "nanoseconds": 0
+            }
+        },
+        {
+            "name": "Ortiz and Sons",
+            "description": "Choice over success think dinner others. Specific year plan above TV.",
+            "email": "jrodriguez@allen.net",
+            "location": "Reedland",
+            "logoUrl": "https://placehold.co/100x100?text=Publisher+7",
+            "phone": "340-865-5328",
+            "website": "http://www.gray.info/",
+            "createdAt": {
+                "seconds": 1749699824,
+                "nanoseconds": 0
+            }
+        },
+        {
+            "name": "Barnett, Sparks and Silva",
+            "description": "Place fast role everyone. Face project us seem single get.",
+            "email": "stephenwong@chapman.org",
+            "location": "North Jasonhaven",
+            "logoUrl": "https://placehold.co/100x100?text=Publisher+8",
+            "phone": "842-410-4325x4119",
+            "website": "https://ewing.org/",
+            "createdAt": {
+                "seconds": 1749699824,
+                "nanoseconds": 0
+            }
+        },
+        {
+            "name": "Alvarez Ltd",
+            "description": "Another something religious church. Through get blue whom develop determine.",
+            "email": "evansshelia@green-sullivan.com",
+            "location": "Rogersburgh",
+            "logoUrl": "https://placehold.co/100x100?text=Publisher+9",
+            "phone": "001-344-142-9699x80528",
+            "website": "http://barber.org/",
+            "createdAt": {
+                "seconds": 1749699824,
+                "nanoseconds": 0
+            }
+        },
+        {
+            "name": "Davis Inc",
+            "description": "Half get exactly between find. Industry space wind agency local now set.",
+            "email": "phamrebecca@lawson.biz",
+            "location": "West Lydia",
+            "logoUrl": "https://placehold.co/100x100?text=Publisher+10",
+            "phone": "001-389-237-2503x6255",
+            "website": "http://keller.info/",
+            "createdAt": {
+                "seconds": 1749699824,
+                "nanoseconds": 0
+            }
+        }
+    ]
+}

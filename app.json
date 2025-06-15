@@ -1,0 +1,91 @@
+{
+  "expo": {
+    "name": "Candil E-Gov",
+    "slug": "candil-egov",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/adaptive-icon.png",
+    "scheme": "candilegov",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.kawasandigital.candil",
+      "infoPlist": {
+        "NSCameraUsageDescription": "This app needs access to camera to scan documents",
+        "NSPhotoLibraryUsageDescription": "This app needs access to photo library to import documents"
+      }
+    },
+    "android": {
+      "package": "com.kawasandigital.candil",
+      "permissions": [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.INTERNET",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.MODIFY_AUDIO_SETTINGS"
+      ],
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#0049DB"
+      },
+      "edgeToEdgeEnabled": true,
+      "androidStatusBar": {
+        "backgroundColor": "#ffffff",
+        "barStyle": "dark-content",
+        "translucent": true
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/icon.png",
+      "build": {
+        "babel": {
+          "include": []
+        }
+      }
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/adaptive-icon.png",
+          "imageWidth": 300,
+          "resizeMode": "contain",
+          "backgroundColor": "#0049DB"
+        }
+      ],
+      [
+        "expo-document-picker",
+        {
+          "iCloudContainerEnvironment": "Production"
+        }
+      ],
+      [
+        "expo-audio",
+        {
+          "microphonePermission": "Allow $(PRODUCT_NAME) to access your microphone."
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "a190f753-89ce-4d0b-91c6-c96d28d6d793"
+      }
+    }
+  }
+}
